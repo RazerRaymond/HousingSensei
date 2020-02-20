@@ -1,2 +1,4 @@
 # HousingSensei
-An app that helps users to find their ideal housing options with specified requirements such as price range, locations, crime rate, distance from school, and etc. We want to make an app that will provide college students with the largest and most convenient housing service through the most accessible way: an iOS App.
+An app that helps users to find their ideal housing options with specified requirements such as price range, locations, crime rate, distance from school, and etc. We want to make an app that will provide college students with the largest and most convenient housing service through the most accessible way: an iOS App. In addition, users can also add houses that they like into the “favorite” list, as well as track down the price afterwards (also receive notifications if there is a significant price change on those houses). Users can also use the app to navigate and find the fastest way to the apartment they are looking for. 
+
+##Note: The API is paid and may be suspended. The app may not be able to pull data at the time of download.
